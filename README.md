@@ -13,8 +13,7 @@ A general python framework for visual object tracking and video object segmentat
 
 ### KeepTrack and DiMP Trackers
 
-Official implementation of the **ToMP** (CVPR 2022), **KeepTrack** (ICCV 2021), **LWL** (ECCV 2020), **KYS** (ECCV 2020), **PrDiMP** (CVPR 2020), 
-**DiMP** (ICCV 2019), and **ATOM** (CVPR 2019) trackers, including complete **training code** and trained models.
+Official implementation of the **KeepTrack** (ICCV 2021), **DiMP** (ICCV 2019), including complete **training code** and trained models.
 
 ### [Tracking Libraries](pytracking)
 
