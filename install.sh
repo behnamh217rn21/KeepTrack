@@ -107,18 +107,7 @@ mkdir pytracking/networks
 echo ""
 echo ""
 echo "****************** DiMP50 Network ******************"
-gdown https://drive.google.com/uc\?id\=1qgachgqks2UGjKx-GdO1qylBDdB1f9KN -O pytracking/networks/dimp50.pth
-# gdown https://drive.google.com/uc\?id\=1MAjrRJDCbL0DSjUKFyDkUuYS1-cYBNjk -O pytracking/networks/dimp18.pth
-
-# echo ""
-# echo ""
-# echo "****************** ATOM Network ******************"
-# gdown https://drive.google.com/uc\?id\=1VNyr-Ds0khjM0zaq6lU-xfY74-iWxBvU -O pytracking/networks/atom_default.pth
-
-# echo ""
-# echo ""
-# echo "****************** ECO Network ******************"
-# gdown https://drive.google.com/uc\?id\=1aWC4waLv_te-BULoy0k-n_zS-ONms21S -O pytracking/networks/resnet18_vggmconv1.pth
+gdown https://drive.google.com/uc\?id\=1JIhzF1yd1EFbVCKJMakqEjWngthySIS5 -O pytracking/networks/keep_track.pth.tar
 
 echo ""
 echo ""
